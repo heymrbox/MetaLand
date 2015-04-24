@@ -10,29 +10,41 @@
 	<string>MetaLand</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>C7060D00CF724362DBFC2F9152BAAFA02B0D9CDB</key>
+		<key>465237F45C201CF82F3D35849A9D939E6938F2D1</key>
 		<string>http://triforce.usc.edu/git/scm/met/metaland.git</string>
+		<key>A7F478ECE5468A6ECC4E8854C17EAB29002764F3</key>
+		<string>https://github.com/heymrbox/Metaland.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>MetaLand.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>C7060D00CF724362DBFC2F9152BAAFA02B0D9CDB</key>
+		<key>465237F45C201CF82F3D35849A9D939E6938F2D1</key>
 		<string>../..</string>
+		<key>A7F478ECE5468A6ECC4E8854C17EAB29002764F3</key>
+		<string>../../MetaLand/</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
 	<string>http://triforce.usc.edu/git/scm/met/metaland.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>C7060D00CF724362DBFC2F9152BAAFA02B0D9CDB</string>
+	<string>465237F45C201CF82F3D35849A9D939E6938F2D1</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>C7060D00CF724362DBFC2F9152BAAFA02B0D9CDB</string>
+			<string>465237F45C201CF82F3D35849A9D939E6938F2D1</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MetaLand</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>A7F478ECE5468A6ECC4E8854C17EAB29002764F3</string>
 			<key>IDESourceControlWCCName</key>
 			<string>MetaLand</string>
 		</dict>
